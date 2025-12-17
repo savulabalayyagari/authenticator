@@ -1,0 +1,83 @@
+.auth-container {
+  padding: 20px;
+}
+
+.auth-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  gap: 6px;
+  margin: 10px 0;
+}
+
+.row input {
+  width: 260px;
+  padding: 4px;
+}
+
+.row button {
+  padding: 4px 10px;
+}
+
+.list {
+  margin-top: 10px;
+}
+
+.itemRow {
+  display: flex;
+  gap: 6px;
+  margin: 6px 0;
+}
+
+.textBtn {
+  width: 260px;
+  padding: 4px;
+}
+
+.removeBtn {
+  padding: 4px 10px;
+}
+
+.signout-btn {
+  margin-top: 16px;
+  padding: 8px 16px;
+}
+
+/* modal */
+.modalOverlay {
+  background: rgba(0, 0, 0, 0.25);
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modalBox {
+  background: white;
+  border: 1px solid #999;
+  padding: 14px;
+  width: 320px;
+}
+
+.modalRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.modalRow input {
+  flex: 1;
+  padding: 4px;
+}
+
+.modalButtons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
