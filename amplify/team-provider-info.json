@@ -10,6 +10,11 @@
       "StackName": "amplify-authenticatorvite-main-30763",
       "StackId": "arn:aws:cloudformation:us-east-2:871265417290:stack/amplify-authenticatorvite-main-30763/d68338f0-db86-11f0-9555-0215f224bf13",
       "AmplifyAppId": "dimgatwuc6f1b"
+    },
+    "categories": {
+      "auth": {
+        "authenticatorvite2e29876a": {}
+      }
     }
   }
 }
