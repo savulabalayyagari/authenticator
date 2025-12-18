@@ -1,6 +1,8 @@
 {
-  "whyContinueWithGen1": "I find the Gen 1 CLI easier to use",
-  "projectName": "authenticator",
+  "providers": [
+    "awscloudformation"
+  ],
+  "projectName": "authenticatorvite",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
@@ -11,8 +13,5 @@
       "BuildCommand": "npm run build",
       "StartCommand": "npm run dev"
     }
-  },
-  "providers": [
-    "awscloudformation"
-  ]
+  }
 }
